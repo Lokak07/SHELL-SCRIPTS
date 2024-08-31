@@ -24,4 +24,4 @@ echo "cheen tapaku dum dum" >> $LOG_FILE
 
 #log file saved
 
-echo "log file saved at $LOG_FILE" 
+echo "log file saved at $LOG_FILE" add this line to the file 
