@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+#Scenario: Write a script to create daily log files with a timestamped filename.
+
 # Set the directory where logs will be stored
 LOG_DIRECTORY="/home/loka/DEVOPS-PROJECTS/SHELL_SCRIPTING/SHELL-SCRIPTS/DAY-3/log"
 
